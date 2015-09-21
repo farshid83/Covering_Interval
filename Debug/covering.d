@@ -1,0 +1,1 @@
+covering.d: ../covering.cpp
